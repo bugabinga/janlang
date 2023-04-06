@@ -1,0 +1,6 @@
+.idea
+documentation/.obsidian
+janlang.iml
+scoped_logger/output
+scoped_logger/scoped_logger.iml
+builder
